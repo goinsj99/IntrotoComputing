@@ -1,0 +1,7 @@
+Student,SAT,GPA,Interest,High School Quality,Sem1,Sem2,Sem3,Sem4
+Abbess Horror ,1300,3.61,10,7,95,86,91,94
+Anastasia Kravinoff ,1500,3.74,0,0,92,86,81,90
+Adelicia von Krupp ,900,4,5,2,88,92,83,72
+Anna Frankenstein ,1050,2.42,5,4,90,91,93,98
+Akira Kiamata ,1310,4,1,1,90,86,81,82
+Anita Ehren ,1260,2.9,0,0,94,85,82,89

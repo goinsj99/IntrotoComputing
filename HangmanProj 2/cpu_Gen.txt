@@ -1,0 +1,10 @@
+apple, Type of tree and tech company
+bear, King of the forest
+lion, King of the jungle
+water, Plants need..
+cooler, Cold box
+drink, If you are thirsty
+sink, Wash your hands
+television, Flatscreen
+netflix, A popular streaming service
+football, The American sport
